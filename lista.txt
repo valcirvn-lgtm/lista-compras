@@ -3,5 +3,6 @@ preciso compra
 banana
 abacaxi
 abacate
+goiaba
 
 essa é a minha lista de compras
