@@ -1,2 +1,2 @@
-# lista-de_compras
+# lista-de-compras
 lista de compra usando git
