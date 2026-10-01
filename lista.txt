@@ -1,7 +1,7 @@
 preciso compra
 
-abacaxi
-abacate
-goiaba
+ABACAXI
+ABACATE
+GOIABA
 
 essa é a minha lista de compras
